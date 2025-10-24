@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Happy Monthiversary ❤️</title>
-    <style>
-      body {
-        background: #ffe6f0;
+background: #ffe6f0;
         font-family: 'Comic Sans MS', cursive, sans-serif;
         color: #ff0066;
         text-align: center;
